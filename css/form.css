@@ -1,0 +1,40 @@
+.select{
+	font-family: "Arial", "Helvetica", "sans-serif";
+	font-size: 11px;
+	color: #4F4F4F;
+	background-color: #FFFFFF;
+	line-height: 12px;
+}
+
+/* ���쪺�Φ� */
+.FormFormat input{
+	background-color: #FFFFFF;
+	font-family: "Arial", "Helvetica", "sans-serif";
+	font-size: 11px;
+	color: #4B4B4B;
+	border: 1px solid #D9D9D9;
+	padding-top: 2px;
+	padding-left: 4px;
+}
+
+.FormFormat textarea{
+	background-color: #FFFFFF;
+	font-family: "Arial", "Helvetica", "sans-serif";
+	font-size: 11px;
+	color: #4B4B4B;
+	border: 1px solid #D9D9D9;
+	padding-top: 2px;
+	padding-left: 4px;
+}
+
+.Table0p {
+	margin: 0px;
+	padding: 0px;
+
+}
+/* ���椺���Z */
+Form {
+	padding: 0px;
+	margin: 0px;
+
+}

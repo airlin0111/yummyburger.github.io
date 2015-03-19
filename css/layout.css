@@ -1,0 +1,416 @@
+body{
+	margin: 0px;
+}
+td {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+	line-height: 22px;
+}
+a{
+	color: #FF9900;
+	text-decoration: underline;
+}
+a:hover{
+	color: #FF6600;
+	text-decoration: none;
+}
+hr {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: dotted;
+	border-right-style: dotted;
+	border-bottom-style: dotted;
+	border-left-style: dotted;
+	border-top-color: #CCCCCC;
+	border-right-color: #EAECEE;
+	border-bottom-color: #EAECEE;
+	border-left-color: #EAECEE;
+}
+img { border:0px;}
+/* ...........................................分格線................................................. */
+/* 表格框架為1 */
+/*table { 
+    border-collapse: collapse; 
+} */
+/* ...........................................分格線................................................. */
+/* 版權宣告 */
+.Copyright{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #C5C5C5;
+}
+.Copyright a{
+	color: #C5C5C5;
+	text-decoration: underline;
+}
+.Copyright a:hover{
+	color: #999999;
+	text-decoration: none;
+}
+.Copyright2{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #999999;
+}
+.Copyright2 a{
+	color: #999999;
+	text-decoration: underline;
+}
+.Copyright2 a:hover{
+	color: #666666;
+	text-decoration: none;
+}
+#bgsetting { position:absolute; z-index:-9999; top:0px; left:0px;}
+#menu_masterwrap { width:681px; z-index:999; position:absolute; }
+#flashcontent { position:absolute; z-index:0; margin-top:-80px;}
+#flashcontent2 { width:620px; height:205px; float:left;}
+/* ...........................................分格線................................................. */
+/* 下面的輔助導覽 */
+.bottomnavi{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #A8A8A8;
+}
+.bottomnavi a{
+	color: #A8A8A8;
+	text-decoration: none;
+}
+.bottomnavi a:hover{
+	color: #666;
+	text-decoration: none;
+}
+
+.leftborder { background:url(../_img/_layout/main_border_left.jpg) right top repeat-y;}
+.leftbg { background-color:#FcFcFc;}
+.rightborder { background:url(../_img/_layout/main_border_right.jpg) left top repeat-y;}
+.rightbg { background-color:#FcFcFc;}
+/* ...........................................分格線................................................. */
+/* 隱藏 */
+.nodisplay {
+        display: none;
+}
+/* ...........................................分格線................................................. */
+/* 實線 */
+.alphaline{
+	font-size: 1px;
+	line-height: 1px;
+}
+.Rightline{
+	border-top: 1px solid #e1e1e1;
+	border-bottom: 1px solid #e1e1e1;
+	border-left: 1px solid #e1e1e1;
+}
+/* 虛線 */
+.alphaline2{
+	font-size: 1px;
+	line-height: 1px;
+	background-image: url(../_img/1_rooms/room_line_bg.gif);
+	background-repeat: repeat-x;
+}
+/* 更多 */
+.LinkMore a {
+	font-family: "Arial", "Helvetica", "sans-serif";
+	font-size: 11px;
+	color: #333333;
+	text-decoration: none;
+}
+/* 頁碼 CSS */
+.pagenun {
+	font-size: 11px;
+	color: #00406F;
+	text-decoration: none;
+}
+.pagenun a{
+	font-weight: normal;
+	color: #666666;
+	text-decoration: underline;
+	}
+.pagenun a:hover{
+	font-weight: normal;
+	color: #00406F;
+	text-decoration: none;
+}
+/* ...........................................分格線................................................. */
+/* 動一下 */
+.overicon a{
+	text-decoration: underline;
+}
+.overicon a:hover{
+	text-decoration: none;
+	position: relative;
+	left: 1px;
+	top: 1px;
+}
+/* ...........................................分格線................................................. */
+/* 客房CSS */
+.RoomsOverviewBg {
+	background-attachment: fixed;
+	background-color: #FFFFFF;
+	background-image: url(../_img/1_rooms/room_soverview_bg.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+/* ...........................................分格線................................................. */
+/* 聯絡我們CSS */
+.ContactOverviewBg {
+	background-attachment: fixed;
+	background-color: #FFFFFF;
+	background-image: url(../_img/7_contact/contact_bg.jpg);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+/* ...........................................分格線................................................. */
+/* meetings CSS */
+.MeetingOverviewBg {
+	background-attachment: fixed;
+	background-image: url(../_img/3_meetings/meetings_bg_01.jpg);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+/* ...........................................分格線................................................. */
+/* what CSS */
+.WhatBg {
+	background-attachment: fixed;
+	background-image: url(../_img/5_what/05_bg04_01.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+/* ...........................................分格線................................................. */
+
+
+.RoomsOverviewTit {
+	color: #999999;
+}
+.LinkQ {
+	font-size: 12px;
+	color: #575757;
+	padding-bottom: 8px;
+	padding-top: 5px;
+}
+.LinkQ a{
+	font-size: 12px;
+	color: #575757;
+	border-bottom-width: 1px;
+	text-decoration: underline;
+	line-height: 22px;
+}
+.LinkMore a:hover {
+	font-family: "Arial", "Helvetica", "sans-serif";
+	font-size: 11px;
+	color: #0A51A1;
+	text-decoration: none;
+}
+.LineGray {
+	font-size: 1px;
+	line-height: 1px;
+	background-color: #D9D9D9;
+}
+.PageNavi {
+	font-size: 11px;
+	color: #666666;
+}
+.PageNavi a{
+	font-size: 11px;
+	color: #666666;
+	text-decoration: underline;
+}
+.PageNavi a:hover{
+	font-size: 11px;
+	color: #0033CC;
+	text-decoration: underline;
+}
+.LinkQ {
+	font-size: 12px;
+	color: #575757;
+	padding-bottom: 8px;
+	padding-top: 5px;
+}
+.LinkPeriodical {
+	font-family: "Arial", "Helvetica", "sans-serif";
+	font-size: 11px;
+	color: #4F4F4F;
+	text-decoration: none;
+	padding-top: 6px;
+	line-height: 18px;
+}
+.LinkPeriodical a {
+	font-family: "Arial", "Helvetica", "sans-serif";
+	font-size: 11px;
+	color: #876F23;
+	text-decoration: none;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #EDECD3;
+	line-height: 14px;
+}
+.LinkPeriodical a:hover{
+	font-family: "Arial", "Helvetica", "sans-serif";
+	font-size: 11px;
+	color: #CC0000;
+	text-decoration: none;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #FAD8D6;
+	line-height: 14px;
+}
+.LinkOverview a {
+	font-family: "Arial", "Helvetica", "sans-serif";
+	font-size: 12px;
+	color: #CC0000;
+	text-decoration: none;
+	padding-bottom: 0px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #F1C5C2;
+}
+.LinkOverview a:hover {
+	font-family: "Arial", "Helvetica", "sans-serif";
+	font-size: 12px;
+	color: #CC0000;
+	text-decoration: none;
+	padding-bottom: 0px;
+	border-bottom-style: none;
+}
+.norow {
+	font-size: 1px;
+	line-height: 1px;
+}
+.SchoolClass {
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.SchoolClass a{
+	font-size: 12px;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+.SchoolClass a:hover{
+	font-size: 12px;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+	position: relative;
+	left: 1px;
+	top: 1px;
+}
+.topnavi{
+	font-family: "Arial", "Helvetica", "sans-serif";
+	font-size: 11px;
+	color: #999999;
+	text-decoration: none;
+}
+.topnavi a {
+	color: #999999;
+	text-decoration: none;
+}
+.topnavi a:hover {
+	text-decoration: none;
+	position: relative;
+	left: 1px;
+	top: 1px;
+	color: #666666;
+
+}
+.overbg {
+	background-attachment: fixed;
+	background-color: #001F3E;
+	background-image: url(../_img/index_00/index_bg.jpg);
+	background-repeat: repeat-x;
+	background-position: left top;
+}
+.contactbg {
+	background-attachment: fixed;
+	background-image: url(../_img/contact_05/contact_pic01.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+.productsNavi {
+	text-decoration: none;
+	display: block;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	padding-left: 1px;
+	padding-right: 1px;
+	letter-spacing: -1px;
+}
+.productsNavi a{
+	text-decoration: none;
+	display: block;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	padding-left: 1px;
+	padding-right: 1px;
+	letter-spacing: -1px;
+}
+.productsNavi a:hover{
+	text-decoration: none;
+	display: block;
+	background-color: #CDD3D8;
+	padding-top: 1px;
+	padding-right: 1px;
+	padding-bottom: 1px;
+	padding-left: 1px;
+	letter-spacing: -1px;
+}
+.sitemap {
+	font-family: "Arial", "Helvetica", "sans-serif";
+	font-size: 11px;
+	color: #666666;
+	text-decoration: none;
+	font-weight: normal;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.sitemap a{
+	color:  #666666;
+	text-decoration: none;
+	display: block;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.sitemap a:hover{
+	color:  #003E7B;
+	text-decoration: none;
+	display: block;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.NewsTxt02{
+	font-size: 11px;
+	font-weight: normal;
+	color: #666666;
+	text-decoration: none;
+}
+.NewsTxt02 a{
+	font-size: 11px;
+	font-weight: normal;
+	color: #666666;
+	text-decoration: underline;
+}
+.NewsTxt02 a:hover{
+	font-size: 11px;
+	font-weight: normal;
+	color: #079C07;
+	text-decoration: underline;
+}
+.NewsTxt03{
+	font-size: 11px;
+	font-weight: normal;
+	color: #999999;
+	text-decoration: none;
+}
+
+.newsicon { margin-left:10px; height:20px;}

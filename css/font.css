@@ -1,0 +1,205 @@
+.verdamansize10 {
+	font-family: "Arial", "Helvetica", "sans-serif";
+	font-size: 10px;
+}
+
+.topsecondmemu { font-size:11px; color:#ccc; letter-spacing:1px; font-family:Verdana, Geneva, sans-serif;} 
+.topsecondmemu a{ font-size:11px; color:#ccc; letter-spacing:1px; font-family:Verdana, Geneva, sans-serif; text-decoration:none;} 
+.topsecondmemu a:hover{ font-size:11px; color:#666; letter-spacing:1px; font-family:Verdana, Geneva, sans-serif; text-decoration:none;} 
+/* ...........................................�����u................................................. */
+/* ���� */
+/* ����NEWS���� */
+.indexdate {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #A5A5A5;
+	line-height: 15px;
+	padding-top:4px;
+}
+/* ����NEWS�y�z */
+.indexDescribe {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+}
+.indexDescribe a{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+	border-bottom: 1px solid #CCCCCC;
+	text-decoration: none;
+}
+.indexDescribe a:hover{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	text-decoration: none;
+	border-bottom: 1px solid #CCCCCC;
+}
+/* ...........................................�����u................................................. */
+/* �ȩ� */
+/* �������r�y�z */
+.RoomsDescribe {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #999999;
+}
+/* ...........................................�����u................................................. */
+/* �\�� */
+/* �s�����D */
+.DiningTitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #A33851;
+}
+.DiningTitle a{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #A33851;
+	text-decoration: none;
+}
+.DiningTitle a:hover{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #AA3389;
+	text-decoration: underline;
+}
+/* ...........................................�����u................................................. */
+/* NEWS */
+/* �s�D���D */
+.NewsTitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #009900;
+}
+.NewsTitle a{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #009900;
+	text-decoration: underline;
+}
+.NewsTitle a:hover{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #009900;
+	text-decoration: none;
+}
+/* �s�D�歶���D */
+.NewsPageTitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #009900;
+	font-weight: bold;
+}
+/* ...........................................�����u................................................. */
+/* what�椸���D���C���ܦ� */
+/* ���I���D */
+.WhatTitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FF9900;
+}
+.WhatTitle a{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FF9900;
+	text-decoration: underline;
+}
+.WhatTitle a:hover{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FF9900;
+	text-decoration: none;
+}
+/* ���I�歶���D */
+.WhatPageTitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #FF9900;
+	font-weight: bold;
+}
+/* ...........................................�����u................................................. */
+/* ���� */
+.newsdate {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #666666;
+}
+/* ...........................................�����u................................................. */
+/* �歶���D */
+.PageTitle {
+	font-family: "Arial", "Helvetica", "sans-serif";
+	font-size: 15px;
+	font-weight: bold;
+	color: #003399;
+	background-color: #FFFFFF;
+}
+
+.NewsSub {
+	font-size: 12px;
+	color: #666666;
+	text-decoration: none;
+	padding-top: 6px;
+	line-height: 16px;
+
+}
+.NewsContent {
+	font-family: "Arial", "Helvetica", "sans-serif";
+	font-size: 12px;
+	line-height: 22px;
+	color: #4A4A42;
+}
+.NewsDetailTitle {
+	font-weight: bold;
+	color: #876C36;
+	text-decoration: none;
+}
+
+/* ���~���O���D */
+.productstit {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: #003E7B;
+	position: relative;
+	left: 13px;
+	bottom: 3px;
+}
+
+/* ���~���D */
+.productstitle2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #00406F;
+}
+.productstitle2 a{
+	color: #00406F;
+}
+.productstitle2 a:hover{
+	color: #00406F;
+}
+
+/* �ѨM�������O���D */
+.solutionstitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: #003E7B;
+	position: relative;
+	left: 13px;
+	bottom: 3px;
+}
+
+/*font*/
+.orangefont{ font-size:12px; color:#FE5126; font-family:Arial, Helvetica, sans-serif;}
+.orangefont a{ font-size:12px; color:#FE5126; font-family:Arial, Helvetica, sans-serif; text-decoration:none;}
+.orangefont a:hover{ font-size:12px; color:#FC9D1D; font-family:Arial, Helvetica, sans-serif; text-decoration:none;}
+
+.purplefont { font-size:12px; color:#A03954; font-family:Arial, Helvetica, sans-serif;}
+.purplefont a{ font-size:12px; color:#A03954; font-family:Arial, Helvetica, sans-serif; text-decoration:none;}
+.purplefont a:hover{ font-size:12px; color:#D995A6; font-family:Arial, Helvetica, sans-serif; text-decoration:none;}
+
+.pinkfont { font-size:12px; color:#FF77A4; font-family:Arial, Helvetica, sans-serif; font-weight:bold;}
+
+.formwhitefont { font-size:12px; color:#FFF; font-family:Arial, Helvetica, sans-serif;}
